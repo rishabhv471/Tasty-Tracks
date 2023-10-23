@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import React from 'react'
 import Card from "./Card";
 import "../App.css";
 import Shimmer from "./shimmer";
