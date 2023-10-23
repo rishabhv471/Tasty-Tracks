@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import React from 'react'
 import { useParams } from 'react-router-dom';
 import { SwiggyMenuAPi } from '../utils/env';
 import { additem } from '../utils/cartSlice';
