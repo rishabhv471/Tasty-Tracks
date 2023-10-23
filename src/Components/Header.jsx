@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import React from 'react';
 import '../App.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHouse, faAddressCard, faCartPlus } from "@fortawesome/free-solid-svg-icons";
